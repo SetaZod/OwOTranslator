@@ -1,5 +1,4 @@
-[
-  {
+{
   "Author": "SetaZod",
   "Name": "OwO Translator",
   "Punchline": "Twanslates chat into owo/uwu in weal time >w<",
@@ -15,4 +14,4 @@
   ],
   "DalamudApiLevel": 15
 }
-]
+
