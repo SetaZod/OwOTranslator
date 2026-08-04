@@ -1,4 +1,5 @@
-{
+[
+  {
   "Author": "SetaZod",
   "Name": "OwO Translator",
   "Punchline": "Twanslates chat into owo/uwu in weal time >w<",
@@ -17,3 +18,4 @@
   "DownloadLinkUpdate": "https://github.com/SetaZod/OwOTranslator/releases/download/1.0.0/latest.zip",
   "DownloadLinkTesting": "https://github.com/SetaZod/OwOTranslator/releases/download/1.0.0/latest.zip"
 }
+]
