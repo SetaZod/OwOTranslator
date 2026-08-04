@@ -1,0 +1,17 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+
+  <PropertyGroup>
+    <AssemblyName>OwOTranslator</AssemblyName>
+    <RootNamespace>OwOTranslator</RootNamespace>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+
+
+  <ItemGroup>
+    <PackageReference Include="ECommons" Version="3.2.1.16" />
+  </ItemGroup>
+
+</Project>
