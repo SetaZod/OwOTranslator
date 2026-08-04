@@ -5,5 +5,6 @@ Under "Custom Plugin Repositories", add:
    https://raw.githubusercontent.com/SetaZod/OwOTranslator/main/repo.json
 Save, then find OwO Translator in the plugin installer and install it.
 
-Or can just compile by ur self, got dotnet 10 and xiv launcher, then dotnet build -c Release
+Or can just compile by ur self, got dotnet 10 and xiv launcher, then: dotnet build -c Release
+
 any ideas send me a /tell Seta Zod@famfrit
