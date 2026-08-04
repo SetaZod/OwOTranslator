@@ -1,0 +1,19 @@
+{
+  "Author": "SetaZod",
+  "Name": "OwO Translator",
+  "Punchline": "Twanslates chat into owo/uwu in weal time >w<",
+  "Description": "Intercepts your game's chat messages and rewrites them in owo/uwu style in real time, without altering the original text sent by other players on the server.",
+  "InternalName": "OwOTranslator",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/SetaZod/OwOTranslator",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "chat",
+    "fun",
+    "translator"
+  ],
+  "DalamudApiLevel": 15
+  "DownloadLinkInstall": "https://github.com/SetaZod/OwOTranslator/releases/download/1.0.0/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/SetaZod/OwOTranslator/releases/download/1.0.0/latest.zip",
+  "DownloadLinkTesting": "https://github.com/SetaZod/OwOTranslator/releases/download/1.0.0/latest.zip"
+}
